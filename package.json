@@ -16,8 +16,14 @@
     "lint-sass": "sass-lint client/src"
   },
   "dependencies": {
+    "@emotion/css": "^11.11.2",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.0",
+    "@mui/styled-engine-sc": "^5.12.0",
     "core-js": "^3.26.0",
-    "react": "^18.2.0"
+    "react": "^18.2.0",
+    "styled-components": "^6.0.4"
   },
   "devDependencies": {
     "@babel/runtime": "^7.20.0",
