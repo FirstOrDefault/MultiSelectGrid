@@ -1,6 +1,6 @@
 {
     "name": "firstordefault/multiselect",
-    "description": "A skeleton for Silverstripe CMS modules.",
+    "description": "A custom react multiselect field for Silverstripe 5",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
