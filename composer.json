@@ -1,5 +1,5 @@
 {
-    "name": "firstordefault/multiselect",
+    "name": "firstordefault/silverstripe-multiselectgrid",
     "description": "A custom react multiselect field for Silverstripe 5",
     "type": "silverstripe-vendormodule",
     "keywords": [
